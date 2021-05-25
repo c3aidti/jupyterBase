@@ -1,0 +1,26 @@
+{
+    "id": "py-dataanalysis" ,
+    "name": "py-dataanalysis",
+    "connector": "remote",
+    "language": "Python",
+    "runtime": "CPython",
+    "runtimeVersion": "3.6",
+    "modules": {
+        "conda.tensorflow-gpu": "=2.1.0",
+        "conda.tensorflow-estimator": "=2.1.0",
+        "conda.python-dateutil": "",
+        "conda.h5py": "=2.9.0",
+        "conda.scikit-learn": "",
+        "conda.scipy": "",
+        "conda.pip": "",
+        "conda.pandas": "",
+        "conda.matplotlib": "",
+        "conda.dill": "",
+        "conda.statsmodels": "",
+        "conda.py-opencv": ""
+    },
+    "repositories": [
+        "defaults",
+        "conda-forge"
+    ]
+}

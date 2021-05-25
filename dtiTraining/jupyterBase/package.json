@@ -1,0 +1,6 @@
+{
+  "name": "jupyterBase",
+  "description": "Basic Package with conda environment",
+  "author": "C3 AI DTI",
+  "dependencies": ["standardDependencies"]
+}
